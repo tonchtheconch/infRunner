@@ -1,0 +1,11 @@
+﻿  runner.cpp
+c:\users\tony\downloads\sdl beggining\consoleapplication2\consoleapplication2\runner.cpp(6): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tony\downloads\sdl beggining\consoleapplication2\consoleapplication2\runner.cpp(7): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tony\downloads\sdl beggining\consoleapplication2\consoleapplication2\runner.cpp(19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tony\downloads\sdl beggining\consoleapplication2\consoleapplication2\runner.cpp(20): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\tony\downloads\sdl beggining\consoleapplication2\consoleapplication2\runner.cpp(22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tony\downloads\sdl beggining\consoleapplication2\consoleapplication2\runner.cpp(23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tony\downloads\sdl beggining\consoleapplication2\consoleapplication2\runner.cpp(52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tony\downloads\sdl beggining\consoleapplication2\consoleapplication2\runner.cpp(77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ConsoleApplication2.vcxproj -> C:\Users\Tony\Downloads\SDL beggining\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\Tony\Downloads\SDL beggining\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)
